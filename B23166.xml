@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the councill of officers of the armie, and the heads of the nation; and for the inferior officers and souldiers to read.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <extent>Approx. 26KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23166</idno><idno type="EEBO-CITATION">99889525</idno>
+  <idno type="VID">193545</idno>
+  <idno type="EEBO-PROQUEST">2240909716</idno>
+  
+            <idno type="OCLC"> 10329605</idno>
+            <idno type="STC">Wing F1955</idno>
+            <idno type="STC">Interim Tract Supplement Guide 855.f.3[51]</idno>
+            <idno type="STC">ESTC R28013</idno>
+            <idno type="PROQUEST">ocm99889525</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99889525e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23166)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193545)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B9:1[55])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the councill of officers of the armie, and the heads of the nation; and for the inferior officers and souldiers to read.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: F.G., i.e. George Fox.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Doctrines --  Early works to 1800.</term>
+               <term type="topical_term">Persecution --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:193545:1"/>
+            <head>
+               <hi>TO THE</hi> COUNCILL <hi>OF OFFICERS</hi> OF THE ARMIE, AND THE Heads of the Nation; And for the INFERIOR OFFICERS and SOULDIERS to read.</head>
+            <p>O Freinds, do not Rule with your own Reason! And O Freinds, when will you be stayed in the truth? (on that foundation [in the truth] which cannot be shaken:) And when will you come into that which cannot be shaken, and come out of that which can bee shaken, and throw that down? O when will you look after the truth, and in it be staid! that you may seek after the good of all men, and deny your selves, and with the truth, every man deny himself, that in that which denyeth self (the power of God you may live; in which you may know his Kingdom that hath no end, in which is peace; and no strife, but unity. O when will you throw out all those that have been sed like hogs and swine amongst you, and the feeders of them which are become (like the dross) great Mountains, and others in the mean time ready to starve! O when will equity be found amongst you,
+<pb n="2" facs="tcp:193545:2"/> that you may have peace, and it may be among you to answer the just princi<g ref="char:EOLhyphen"/>ple of God in every one! When must the prisoners go forth, and have justice done them! O when will your persecution and oppression cease in these Nations! Vntil then, you shall not have peace from the Lord, until the per<g ref="char:EOLhyphen"/>secutors and oppressors sword be put up, which is turned against the just, which now is turned amongst the Heads of the Nation, and the just sword, (the power of God) which doth secretly work to do his service, to bring forth righ<g ref="char:EOLhyphen"/>teousness, &amp; that must be brought forth, before righteousness be established in the Nations, to destroy all hypocrites and hypocrisie, flatterers and dissem<g ref="char:EOLhyphen"/>blers, and daubers with untempered morter, that the innocency and wisdome of God may rule. O purge out, purge out all the filth, all the filth from among your selves, and out of your selves! for truth over all will reign, that live not in it.</p>
+            <p>And (O friends!) the power of God you have abused, which had you lived in, you and the Nations had all been quiet therein, and all the oppressed had had liberty; and the Lord had been the joy of every ones heart; and the spoil of the enemies not have taken up the possession of the heart, as it hath; so that the Lord hath had no place, nor his people; but the just have been trodden under-foot, and made a prey of on every hand, who have been put out of the Army and publike Services, and the Publike Enemy hath had their revenge of many of them, which once they were over. Now had you been faithful in the power of the Lord which once stirred, this Nation needed not have been afraid of any Nation upon the earth; but your dread would have sounded over) the world: but when you lost the power of God, and turned against that with which you had brushed at the out-side of things then you turned against and put them in prison that struck at the root, by which Nations about you are lifted up, and stand at your doors. That which must break down and keep down, must be the power of the Lord, which if you had abided in, there had been another work in other Nations before now; then you should neither have feared <hi>Holland,</hi> nor <hi>France,</hi> nor <hi>Spain,</hi> nor <hi>Ita<g ref="char:EOLhyphen"/>ly;</hi> but have trampled under deceit, and made it to bow: (But all these things are seen over, by them who are come to the election before the world began.)</p>
+            <p>And had you been faithful to the power of the Lord God which first carried you on, you had gone into the midst of <hi>Spain,</hi> into their Land, to require the blood of the Innocent that there had been shed, and commanded them to have offered up their Inquisition to you, and gone over them as the winde, and knock't at <hi>Rome's</hi> gates before now, and trampled Deceit and Tyrants under, and demanded the Pope himself, and have command<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d him to have offered up all his Torture-houses, and his Wracks, and Inquisition, (which you should have found as black as hell) and broke up the barre and gates where all the just blood hath been shed, which should have been required: And this you should have required, and this you should have seen done in the power, when you had been the dread of all Nations, you had been a dread to
+<pb n="3" facs="tcp:193545:2"/> them, and should have set up a Standard at <hi>Rome:</hi> And then you should have sent for the <hi>Turk's</hi> Idol, the <hi>Mahomet,</hi> and plucked up Idolatry, and cried up Christ the onely King and Lord; and then people would have said, You had g<gap reason="illegible" resp="#pdcc" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e on in the cause of God and his truth, without any end to your selves, but the good of all people, for the releasment of all people out of thraldome, bondage and captivity; and by that you should have had a name, being in the power of the Lord which is wonderful and dreadful; then there would have been little need to have looked for gold or silver: But when you lost the power, then came the innocent to be cast into prison here. [Consider that above twenty hundred have been persecuted and im<g ref="char:EOLhyphen"/>prisoned within these few yeers for conscience sake towards the Lord:] And so if you had gone to have made Inquisition for blood, and to demand all the Inquisitions abroad in the whole Christendome, whereby the blood of the innocent had been shed, then all the people in the whole Christendome that had feared the Lord God, would have said with one consent, These are the men that are gone out for Gods cause, that set open the prison-doors, that will let none be persecuted for Religion that profess God and Christ, and then you would not have imprisoned at home; But now you have prisons to break down at home, where lies about two hundred prisoners now in pri<g ref="char:EOLhyphen"/>sons and dungeons, in nasty and dark holes, and hath lain in fetters and torturings only for the Word of God's sake. And the new Inquisition set up in <hi>New-England,</hi> burning in the hand, and cutting off ears, and the great<g ref="char:EOLhyphen"/>est crime as yet heard of, is speaking Thou to a particular, and not put<g ref="char:EOLhyphen"/>ting off the hat, and because they are such as work out their salvation with <gap reason="illegible" resp="#pdcc" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ar and trembling, and tremble at Gods Word. And so now before you go to work abroad in other Nations, and the Lord prosper you there, you must come to the just in your selves, and the power of the Lord God there, to set open the prison-doors, that all the just and the oppressed may go forth there, (and break down the unjust) which have been imprisoned since the power was left among you, and many excommunicated within these Dominions, and not suffered to buy nor sell, that Families are almost ruined, and many have almost all their whole estates, horses, and oxen taken away by the priests, for not giving them <hi>Tythes;</hi> and many have been kept in prison till death, by them that <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re called Priests, for whom they do no work. Therefore if the power of the Lord God be minded, and you rise up in that, and all those things be throwne down at home, that are destructive to the very being of creatures, (such who are called Ministers of Christ that will imprison to death those whom they do no work for; and if they say they are no Ministers of Christ, but call them Priests, they say they scandalize them, and yet their own Law calls them Priests, Vicars, and Clerks. So now you have the truth to set free at home, before you go to do it abroad; for above twenty of the inno<g ref="char:EOLhyphen"/>cent lambs and harmless, have been persecuted, and their blood shed in the <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>treets and high-wayes, and imprisoned till death in this Nation within these few yeers, and godly and peaceable Meetings have been broken up by men
+<pb n="4" facs="tcp:193545:3"/> with Bills, Staves and Pistols, and their blood lies upon this Nation, and God hath required it, and will require it of their Heads, who might have stopped this martrydome a great while ago, which was in their power, and did it not; forbonds, &amp; prisons, &amp; fetters, &amp; houses of correction and dangeons, do yet attend the lambs and babes of Christ in every part of the Nation, who have been tryed this seven or eight yeers, whose blood hath been shed, &amp; they beat, and cruelly bruised, and tortured, &amp; martyred, &amp; whipped as Vagrants, their flesh martyred &amp; tortur'd till it hath been ragged again, and yet this hath not asswaged the Adversary. But the Lord is risen, who will plead the cause of the Innocent, not by sword nor by spear, but by his power, in which he will over<g ref="char:EOLhyphen"/>turn the world, &amp; all the powers of the earth, &amp; all sword-men that be not in his power: Therefore tremble and fear before the great God of <hi>Iacob,</hi> of hea<g ref="char:EOLhyphen"/>ven &amp; earth, in whose hands is all breath, who is the God of the spirits of all flesh, whose trumpet is sounding an Alarum in all the earth, that the inhabi<g ref="char:EOLhyphen"/>tants of the earth shal tremble, &amp; all hills &amp; mountains shall reel like cottage<g ref="char:EOLhyphen"/>houses. God is risen in his power, &amp; happy is he that goes on in his arm, and makes his right hand their strength, for there's the safety, and that doth the va<g ref="char:EOLhyphen"/>liant things; &amp; this arm is above the arm of flesh. Now if simplicity &amp; innocen<g ref="char:EOLhyphen"/>cy were minded in every ones heart to do simplicity &amp; innocency, to do such a thing, then you would have peace in the Nations amongst you, &amp; you would be a dread to all the contrary; for you acting in the true simplicity, innocency, &amp; wisdom of God that is from above, that is gentle, pure, peaceable, &amp; easie to be intreated, by which all things were created, with this wisdome to come to order all things to the glory of God under your hands &amp; dominions: and thus you acting in the light, you will be a terror to all the contrary, that they wil be afraid of you to come before you to bring their deeds to the light. God will o<g ref="char:EOLhyphen"/>verturn, &amp; overturn, (mark) before righteousness be brought forth, that is that which lasteth for ever: And there is not one upon the earth that comes to the law of God that is perfect, and indures for ever, (which lets him see the first trangression, &amp; goes over all transgressors but he must first come to that which he hath transgressed in himself, the noble principle of life in himself, which an<g ref="char:EOLhyphen"/>swers the higher power to which the soul must be subject; and tha<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap> strikes off all mens inventions, &amp; acts &amp; laws, which coms to the law of <hi>God</hi> which is just &amp; equal, that answers to that of God in every man, wherby the law of life coms to be known that makes free from the law of sin &amp; death; and no man upon the earth can know the Scriptures of truth, given forth from the Spirit of Truth, learned of God the Father of Spirits, but they must first come to the Spirit of God &amp; the truth in the inward parts in their own particulars, before people com to have fellowship with God &amp; with the scriptures, which were given forth from the spirit of <hi>God.</hi> There is no one upon the earth coms to worship <hi>God</hi> in spirit &amp; in truth, but they must all be brought to the truth in the inward parts in their own particulars, &amp; they must be in the spirit, if they be the worshipers of <hi>God</hi> the Father of Spirits; and this is more then all the talkers of Scriptures given forth from the Spirit of <hi>God;</hi> for there would not be a persecutor in all Christendom, if they were worshippers of <hi>God</hi> in the spirit and in the truth, <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ich the Devil (that Lord-persecutor) abode not in.</p>
+            <pb n="5" facs="tcp:193545:3"/>
+            <p> Who obeys Christ, loves his enemies, and is in him, the truth, who saves mens lives; but who is out of truth, a worshipper, will kill &amp; compel, and per<g ref="char:EOLhyphen"/>secute to death, to worship; and if any thing be revealed to another that sits by, he will persecute it, and tell them that revelation is ceas't: But who be in the truth, and worship in spirit, (that reveals) they quench it not; <hi>The spirit of the Prophets is subject to the Prophets.</hi>
+            </p>
+            <p>Many Justices of Peace (faithful to the Lord God, to serve him in their ge<g ref="char:EOLhyphen"/>nerations, to keep peace, to do the thing that is just, and to keep down the unruly and rude) you have put out, whereby you have been the cause of let<g ref="char:EOLhyphen"/>ting all the bruites upon them, that matters not Religion nor Law, that these Nations have been in many places as though there were neither Law, Go<g ref="char:EOLhyphen"/>vernment, Teachers nor Ministers, as though they never had God nor Scrip<g ref="char:EOLhyphen"/>tures taught among them: And many valiant Captains, Souldiers, and Offi<g ref="char:EOLhyphen"/>cers, have been put out of the Army (by Sea and Land) of whom it hath been said among you, That they had rather have had one of them, then seven men, and could have turned one of them to seven men; who because of their faithfulness to the Lord God, being faithful towards him, it may be for saying <hi>Thou</hi> to a particular, and for wearing their hats, have been turned out from amongst you, whereby the rude hath fallen upon them, and they have been counted as a thing of naught, and trampled upon as if they were not men f<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t to live upon the earth, whom the Lord hath preserved, and heard their prayers, into whose ears they are come, by whose power and arm they have been upholden.</p>
+            <p>Oh the blood that hath been shed in this Nation for Trurh's sake! Oh what knockings down in Markets, in Steeplehouses, and going to Meetings! Oh what imprisoning, and whipping, and persecuting for wearing their hats, and saying <hi>thou</hi> to a particular, and sending up and down with Passes as Vagrants, (men worth three or fourscore pounds a year) whereas it is known throughout <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he Nation, there is not a beggar among our friends, called <hi>Quakers:</hi> Surely <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>f these men (that do persecute and whip men of three or fourscore pounds a year as Vagrants) had not quite lost their sincerity and true reason, and feel<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ng, they would have looked up and down their Alleys and Steeplehouse<g ref="char:EOLhyphen"/>doors and Streets, and Towns, and have seen thousands of poor begging peo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>le, crying up and down for bread: And if they had looked up and down in Taverns and Ale-Houses, there they might have seen such as live in pleasures <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd drinkings, and would not have caused them to be whipt as Vagrants, who <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n the fear of the Lord reproved these things in their streets. Now let all so<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>er men judge whether the just doth not bleed here over these things in griefe <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>f heart: Oh what shameless things have been acted, which are even past modesty! Oh what nasty Holes, and Dungeons, and Houses of Correction, <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd Straw, for Truth's sake are people cast into! And oh what cruel actions <gap reason="illegible" resp="#pdcc" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Goalers have been acted towards them, and tollerating the prisoners to <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>our dung and <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iss upon their meat! Oh within these few yeers how many <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ave been thus under cruel sufferings in these nasty Holes, under cruel Goal<g ref="char:EOLhyphen"/>ers,
+<pb n="6" facs="tcp:193545:4"/> and cruel Persecutors, kept in their prisons till they have end<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d their lives Oh what cruel havock and spoiling of the goods of people, (for truths sake) hath been in this Nation by them that call themselves Preache<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of the Go<g ref="char:EOLhyphen"/>spel, and Christians, and must not be called Priests! Oh what cruel havock hath been made upon the people for the word of God's sake, who were met in his fear, breaking up their Meetings, taking away their Horses, which is even hard to be uttered, &amp; multitude of sufferings that can almost hardly be num<g ref="char:EOLhyphen"/>bered, though it hath been said that such as fear God might meet together, &amp; should not be molested; yet as long as sober Justices are put out, and crooked &amp; perverse kept in, whose wils have been their Law, what else can be expected? oh what breaking of Windows, &amp; unthatching of Houses, &amp; men coming in dis<g ref="char:EOLhyphen"/>guised (with Swords and Pistolls) into Meetings, binding some hand &amp; foot carrying them into the fields, leaving them there all night in the Winter-sea<g ref="char:EOLhyphen"/>son! Oh what havock hath been made of the people of God, that they have come and rode in, and trampled among them with their Horses, and have plucked him up by the hair of the head, that was on his knees praying to the Lord; whereby the persecution in this Nation hath given an ill favour unto the Nations hereabout, and it rings abroad in the world, that when friends are moved of the Lord God to go into other Nations to declare the truth of God and his Word, they cast it upon them, and imprison many, and say they will serve them, and do to them as their own Nation does. Oh! How are men fallen from that which they were at first, when thousands of us went in the front of you, and were with you in the greatest heat, who loo<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed not for the spoil, but the good of the nations, and now thus should be served by those that are set down in the possession of the spoil of our enemies, that they should requite us so in the end! Oh! the Lords truth, the Lords power, and the Lords arm is more dear to us then all, who have not sate down in the spoi<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of our Enemies, who are come to the Lord who hath given us victory, an<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> hath brought us to the light that takes away the occasion and root of the war<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> whereby we know the election before the world began; for when the Jews li<g ref="char:EOLunhyphen"/>ved in the Law of God, their sword was turned against the Heathen without and they were the dread of all nations; but when they transgresse<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Law of God, and kept onely the form of words, and transgressed a<g ref="char:EOLunhyphen"/>gainst the just in themselves, then they turned against the Prophets, and smot them, imprisoned and killed them, and turned against Christ himself. So a<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> this imprisoning, persecution, inquisition, killing, wracking, and torturnin<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> people to death, hath been set up by a power, and must be thrown down h<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> another power, which is the power of God, which destroys the other powe<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> which is contrary to it.</p>
+            <p>Oh! what a seriousness was in people at the beginning of the wars? yea both in small and great: But oh, how hath the spoile of the enemies, (an<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> such as have sate down in it, choaked it, and turned against all seriousnes<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> they themselves having lost it, and so become fatted with the spoil of th<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Houses of the Enemy; for when you sate down in the Enemies spoil, you lo,
+<pb n="7" facs="tcp:193545:4"/> the power and the dread of Nations; and the Enemies about you in other na<g ref="char:EOLhyphen"/>tions, looked upon you, and the amazement and terror which before you were to them, was lost, when you went from the power of the Lord, and sought your selves: Oh what a sincerity was there once in the nation. What a dirty, nasty thing it would have been to have heard talk of a House of Lords among them! oh how is the sincerity choaked, smothered &amp; quenched by the fatness of the earth, whereby they have forgotten the Lord, &amp; his arm &amp; power that once carryed them on! Oh how are they fallen out of that Power out of that Arm! Oh how will you rise again! Oh what abundance have you yet to throw off, which is set up since the day that sincerity was lost! Oh how have men been without feeling (since the day of their adversity in the time of their fulness! Oh how hath lightness and joy sprung up, eating and drinking, ma<g ref="char:EOLhyphen"/>king merry, and rising up to play! Oh how is the state of Christianity gone, and the since<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e life that once approached, and the pure feeling and taste, how is that l<gap reason="illegible" resp="#pdcc" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t, whereby the just, and the innocent, and the harmless Lambs of Christ, lye langui<gap reason="illegible" resp="#pdcc" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing, weak and sick in prisons and not visited? and such as do visit them, come to be imprisoned by such as are lifting themselves up. Oh how have you left all the sincere men of the Nation, which stood with you in the day of sinc<gap reason="illegible" resp="#pdcc" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ty, and made up a Mountain, and set up your selves, whereby sin<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erity hath b<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en lost and forgotten! Oh! but how is the day of shaking now come upon all that be gone out of the Power and Arm of the Lord, and l<gap reason="illegible" resp="#pdcc" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t their sinc<gap reason="illegible" resp="#pdcc" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ty! Now is the day come, now is the Arm stretched out, now is the day appeared that shall try all things, and bring all actions of men to light, and none shall escape it. for the Arm, and Power, and Sword of the Lord is stret<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hed abroad, which will execute its work, and do its service; and now shall be known the tottering of Hills, and removing of Mountains, and nothing shall escape the hand, arm, and power of the Lord▪ and nothing shal live but in ri<gap reason="illegible" resp="#pdcc" extent="2 letters">
+                  <desc>••</desc>
+               </gap>teousness. Oh! how are men given up to speak fair words, <gap reason="illegible" resp="#pdcc" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; fruits <gap reason="illegible" resp="#pdcc" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ak no deeds! Oh! how full are men of fair speeches, &amp; smooth <gap reason="illegible" resp="#pdcc" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, but not performed, their practices declare it, whereby now that is ri<g ref="char:EOLhyphen"/>sen in the Nation, and stirred, that it will not be words will serve the turn, it will not be words, but the life and fruits, and the power that leads people to so say, and s<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o, therein people do as much as they speak, and so come to know the Law of liberty, and are the wise men that lose not the sincerity: Oh how have men been deceived by talkers and talks, by fair speeches, pretences, and flatteries, until it hath grown to be a custom to speak fair words, whereby deceit is grown to such a height, that men have been afraid of one another, to do justice, and own the innocent; but the general universal spirit in mankind hath been imprisoned, that men have not stood every out on their own legs in the power of God, and so through flattery, and fair speeches, and feigned words, have deceived, and clogged, and brought one another into thraldom, that when justice should have been done, they have been so afraid of one ano<g ref="char:EOLhyphen"/>ther, that they could not act it, yet full of good words and fair speeches; the just <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yes <gap reason="illegible" resp="#pdcc" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in themselves, and they cause it to be imprisoned in the ge<g ref="char:EOLhyphen"/>neral, and <gap reason="illegible" resp="#pdcc" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> it which will not let loose, nor set free, and it is impossible it
+<pb n="8" facs="tcp:193545:5"/> should until it be freed within: The just that lies in prison, and is imprisone<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> by the unjust, it never look<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for any thing that that should do, until the ju<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> b<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap> broken out of prison in their own selves, that doth impris<gap reason="illegible" resp="#pdcc" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and c<gap reason="illegible" resp="#pdcc" extent="2 letters">
+                  <desc>••</desc>
+               </gap>le to be m<gap reason="illegible" resp="#pdcc" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>ed, and suffers the just to be in prison in the outwar<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: The <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i <gap reason="illegible" resp="#pdcc" extent="2 letters">
+                  <desc>••</desc>
+               </gap> n r<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> b<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#pdcc" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> every one's own particular, before he visits the just <gap reason="illegible" resp="#pdcc" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is i<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pri<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#pdcc" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t; the power of God must break the prison-door<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap> open with<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, be<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#pdcc" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> set the prison open without; and that is the Arm, the Hand, the Tow<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#pdcc" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> not with mens words) which we have unity withall, who are co<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e t<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> th<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#pdcc" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>dom that stands in power, of whic<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#pdcc" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>re is no end, w<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere li<gap reason="illegible" resp="#pdcc" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is i<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the end of the Law and the Prophets. Christ and know his reign, and s<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in that, in which there is peace, the Seed, Christ, which destroyeth the Levil<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the author of wars, strifes, and confusions, and which seed destroy<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his we<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k and death, where he hath his Authority; and which Seed, Christ, reconcilet<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to God, all things in Heaven, and all things in Earth, through which we come to have unity with God.</p>
+            <p>And you Souldiers, do violence to no man accuse no man falsly, which i<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> you do (violence to any man, or accuse any man falsly) you go from the ju<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Principle of God in you, and upon you will God bring his justice, and <gap reason="illegible" resp="#pdcc" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> you will the Truth reign: To you this is the word of the Lord God; for no<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> doing violence to any man, nor accusing any man falsly, that differ, you from violent doers, and false accusers, whereby your sword is turned against vio<g ref="char:EOLhyphen"/>lent doers, and false accusers, and a terror to the evil doer; and to them that d<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> well, the sword is a praise, and such bear not the sword in vain, nor are lik<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the blind persecutors, that turn the sword backwards; (for persecution wa<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>wayes blind) but they (on the contrary) that bore the sword not in vain, wer<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> a terror to the evil doer, and a praise to those that do well; These were n<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> blind men, nor are not, but these are the men that can see, amongst whom th<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Lords presence, power, life, counsel, and dignity is; and so now you ha<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> time, prize it.</p>
+            <p>And if ever you Souldiers and true Officers come again into the po<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> God which hath been lost, never set up your Standart until you come to <hi>Rom<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> and it be a top of <hi>Rome,</hi> then there let your Standart stand, and look at th<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> power of the Lord God, and never heed gold nor silver, for the power of th<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Lord will give you enough.</p>
+            <p>And if you let the Priests come among you, to counsel you, they will cov<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> you with darkness, and contention, and slavery, and bury the witness of Go<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in you; and by hearkening to them, you will do it in your selves, that yo<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> cannot do justice to others; therefore what you do, do it without them, a<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> take counsel of God, (for what they counsel, they will do for their own end but the Lord will preserve his from such who have been the beginning of a<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> blood, wars; and persecution since the dayes of the Apostles; for the power <gap reason="illegible" resp="#pdcc" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God which the Apostles were in, is now manifest, by which all such are co<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>prehended, and all that which is got up since their dayes.</p>
+            <closer>
+               <signed>From a Lover of peace, and all soul, w<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>stands in the Election before the world began, <hi>F. G.</hi>
+               </signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
